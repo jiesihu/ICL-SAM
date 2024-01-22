@@ -3,6 +3,14 @@
 ## Introduction
 I-SAM presents a cutting-edge approach to image segmentation by leveraging in-context learning, capable of accurately segmenting new images after being provided with a few annotated examples. Our method integrates the strengths of UniverSeg and the Segment Anything Model (SAM), facilitating a robust segmentation performance with minimal manual effort.
 
+<div align="center">
+  <img src="figs/framework.png"/ width="97%"> <br>
+</div>
+
+<div align="center">
+  <img src="figs/curve.png"/ width="97%"> <br>
+</div>
+
 ## Requirements
 Setting up the environment for I-SAM is straightforward. Use the following commands to create and activate the necessary environment:
 
