@@ -11,7 +11,7 @@ I-SAM presents a cutting-edge approach to medical image segmentation by leveragi
   <img src="figs/curve.png"/ width="97%"> <br>
 </div>
 
-We evaluated our method in 3 different types of data sets, and the results showed that our method can greatly improve previous in-context learning model especially when the support set is small.  
+We evaluated our method in 3 different types of datasets, and the results showed that our method can greatly improve previous in-context learning model especially when the support set is small.  
 
 ## Requirements
 Setting up the environment for I-SAM is straightforward. Use the following commands to create and activate the necessary environment:
