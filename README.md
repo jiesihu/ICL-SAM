@@ -30,6 +30,7 @@ Before getting started, download the checkpoints for SAM or MedSAM:
 
 - [SAM ViT-b Checkpoint](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)
 - [MedSAM Checkpoint](https://drive.google.com/drive/folders/1ETWmi4AiniJeWOt6HAsYgTjYv_fkgzoN?usp=drive_link)  
+
 Place the downloaded checkpoints in the `checkpoints` directory within the project structure.
 
 ## Getting Started
