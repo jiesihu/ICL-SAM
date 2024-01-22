@@ -1,7 +1,7 @@
 # I-SAM: Segmentation by Synergizing In-Context Learning model and SAM
 
 ## Introduction
-I-SAM presents a cutting-edge approach to image segmentation by leveraging in-context learning, capable of accurately segmenting new images after being provided with a few annotated examples. Our method integrates the strengths of [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) and the Segment Anything Model (SAM), facilitating a robust segmentation performance with minimal manual effort.
+I-SAM presents a cutting-edge approach to medical image segmentation by leveraging in-context learning, capable of perform any segmenting task after being provided with a few annotated examples. Our method integrates the strengths of [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) and the [SAM](https://github.com/facebookresearch/segment-anything), facilitating a robust segmentation performance with minimal manual effort.
 
 <div align="center">
   <img src="figs/framework.png"/ width="97%"> <br>
