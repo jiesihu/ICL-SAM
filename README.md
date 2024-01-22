@@ -31,10 +31,8 @@ Before getting started, download the checkpoints for SAM or MedSAM:
 - [SAM ViT-b Checkpoint](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)
 - [MedSAM Checkpoint](https://drive.google.com/drive/folders/1ETWmi4AiniJeWOt6HAsYgTjYv_fkgzoN?usp=drive_link)  
 
-Place the downloaded checkpoints in the `checkpoints` directory within the project structure.
-
 ## Getting Started
-To run I-SAM, open the `I-SAM_example.ipynb` notebook and follow the step-by-step instructions. The notebook will guide you through the process of using our model.
+To run I-SAM, open the `I-SAM_example.ipynb` notebook and follow the step-by-step instructions. The notebook will guide you through the process of using our model. Make sure set the checkpoint path before running the demo.
 
 ## Acknowledgements
 This repository benefits from the excellent work provided by [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) and [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM). We extend our gratitude for their significant contributions to the field.
