@@ -1,4 +1,4 @@
-# UniSAM: Unified Segmentation via In-Context Learning and SAM
+# Segmentation via In-Context Learning model and SAM
 
 ## Introduction
 UniSAM presents a cutting-edge approach to image segmentation by leveraging in-context learning, capable of accurately segmenting new images after being provided with a few annotated examples. Our method integrates the strengths of UniverSeg and the Segment Anything Model (SAM), facilitating a robust segmentation performance with minimal manual effort.
