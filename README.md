@@ -1,7 +1,7 @@
 # ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation
 
 ## Introduction
-This is the code for paper ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation. ICL-SAM presents a cutting-edge approach to medical image segmentation by leveraging in-context learning, capable of perform any segmenting task after being provided with a few annotated examples without retraining. Our method integrates the strengths of [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) and the [SAM](https://github.com/facebookresearch/segment-anything).
+This is the code for paper ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation. ICL-SAM presents a cutting-edge approach to medical image segmentation under in-context learning protocal, capable of perform any segmenting task after being provided with a few annotated examples without retraining. Our method integrates the strengths of [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) and the [SAM](https://github.com/facebookresearch/segment-anything).
 
 <div align="center">
   <img src="figs/framework.png"/ width="97%"> <br>
