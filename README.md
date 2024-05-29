@@ -19,8 +19,8 @@ We evaluated our method in 3 different types of datasets, and the results showed
 Use the following commands to create and activate the necessary environment:
 
 ```bash
-conda create -n UniSAM python=3.8
-conda activate UniSAM
+conda create -n ICLSAM python=3.8
+conda activate ICLSAM
 
 pip install -r requirements.txt
 ```
