@@ -8,7 +8,7 @@ This repo contains the code for our paper:
 
 ICL-SAM integrates:
 - 🧩 [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) — for in-context few-shot learning  
-- ✂️ [SAM](https://github.com/facebookresearch/segment-anything) — for powerful interactive segmentation
+- 🎯 [SAM](https://github.com/facebookresearch/segment-anything) — for powerful interactive segmentation
 
 It enables flexible and generalizable medical image segmentation with just a few annotated examples — **no retraining and interactive needed!!**.
 
