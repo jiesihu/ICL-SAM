@@ -4,7 +4,7 @@
 
 This repo contains the code for our paper:  
 **"ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation"**, accepted at **MIDL 2024 (Oral)**.  
-📖 [Read the paper](https://arxiv.org/html/2503.02410v1)
+📖 [Read the paper](https://arxiv.org/pdf/2503.02410v1)
 
 ICL-SAM integrates:
 - 🧩 [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) — for in-context few-shot learning  
