@@ -1,9 +1,32 @@
 # ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation
 
-## Introduction
-This is the code for paper ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation. This paper has been accepted by MIDL 2024 (Oral). For reference, please see the paper [here](https://openreview.net/pdf?id=Y1BeK8dTno). 
+## 📄 Introduction
 
-ICL-SAM presents a cutting-edge approach to medical image segmentation under the in-context learning protocol, capable of performing any segmenting task after being provided with a few annotated examples without retraining. Our method integrates the strengths of [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) and the [SAM](https://github.com/facebookresearch/segment-anything).
+This repo contains the code for our paper:  
+**"ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation"**, accepted at **MIDL 2024 (Oral)**.  
+📖 [Read the paper](https://openreview.net/pdf?id=Y1BeK8dTno)
+
+ICL-SAM integrates:
+- 🧩 [UniverSeg](https://github.com/JJGO/UniverSeg/tree/main) — for in-context few-shot learning  
+- ✂️ [SAM](https://github.com/facebookresearch/segment-anything) — for powerful interactive segmentation
+
+It enables flexible and generalizable medical image segmentation with just a few annotated examples — **no retraining and interactive needed!!**.
+
+---
+
+## ⚠️ Note on Use
+
+ICL-SAM works best when **SAM performs reasonably well on its own**.  
+In challenging cases where SAM struggles, adding ICL may **not improve results**.
+
+**Key insight**:  
+- **ICL** reduces reliance on manual prompts  
+- **SAM** captures fine details interactively  
+➡️ They offer **complementary strengths**.
+
+---
+
+
 
 <div align="center">
   <img src="figs/framework.png"/ width="97%"> <br>
