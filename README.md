@@ -20,7 +20,7 @@ ICL-SAM works best when **SAM performs reasonably well on its own**.
 
 **Key insight**:  
 - **ICL** reduces reliance on manual prompts  
-- **SAM** captures fine details interactively
+- **SAM** captures fine details
 
 ➡️ They offer **complementary strengths**.
 
