@@ -17,11 +17,11 @@ It enables flexible and generalizable medical image segmentation with just a few
 ## ⚠️ Note on Use
 
 ICL-SAM works best when **SAM performs reasonably well on its own**.  
-In challenging cases where SAM struggles, adding ICL may **not improve results**.
 
 **Key insight**:  
 - **ICL** reduces reliance on manual prompts  
-- **SAM** captures fine details interactively  
+- **SAM** captures fine details interactively
+
 ➡️ They offer **complementary strengths**.
 
 ---
